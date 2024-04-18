@@ -2,10 +2,9 @@
 #include <stdlib.h>
 
 int main() {
-	
-	printf("Hello, World!\n");
+	int num = 10;
+	printf("%d \n", num);
 	
 	system("pause");
-	
 }
 
